@@ -7,12 +7,17 @@ The system follows a simple CRUD (Create, Read, Update, Delete) approach, where 
 
 The main objectives of this project were to:
 
-Build an interactive employee data-entry and management system in Excel.
-Automate the process of adding employee records to a structured database.
-Enable users to quickly search and retrieve employee information using Employee ID.
-Allow existing employee records to be updated without creating duplicate records.
-Reduce manual data entry and improve data management efficiency.
-Apply VBA automation to create a more functional and user-friendly Excel solution.
+1. Build an interactive employee data-entry and management system in Excel.
+   
+2. Automate the process of adding employee records to a structured database.
+
+3. Enable users to quickly search and retrieve employee information using Employee ID.
+   
+4. Allow existing employee records to be updated without creating duplicate records.
+   
+5. Reduce manual data entry and improve data management efficiency.
+   
+6. Apply VBA automation to create a more functional and user-friendly Excel solution.
 
 ## Dataset Information
 
@@ -41,8 +46,11 @@ The employee records are stored in a structured worksheet named Altera_Emp_Data,
 
 ## Tools & Technologies
 Microsoft Excel — Database structure, data-entry interface, and record management.
+
 VBA (Visual Basic for Applications) — Automation and system functionality.
+
 Excel Form Controls/Shapes — Interactive buttons for system operations.
+
 Excel Worksheets — Used as the user interface and employee database.
 
 ## System Structure
@@ -145,11 +153,17 @@ This type of system can be applied to organizations that need a simple internal 
 Potential use cases include:
 
 Employee onboarding and data entry.
+
 Updating employee information.
+
 Retrieving employee records.
+
 Maintaining small to medium-sized employee databases.
+
 Training and performance record management.
+
 HR administrative tasks.
+
 Demonstrating business process automation using Excel and VBA.
 
  
